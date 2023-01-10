@@ -1,11 +1,10 @@
 # SOT Fisher
-A fishing tool for the game Sea of Thieves 
-![Alt Text](https://github.com/KaiSomething/MinePath/blob/main/images/demo.gif)
+A fishing tool for the game Sea of Thieves
 
 ### Build
 1. Download repository
 2. Download required packages
-3. Unpack tesseract.rar
+3. Download tesseract-ocr (i dont remember how i did this so figure it out)
 3. Open SOT
 4. Profit
 
