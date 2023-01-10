@@ -1,5 +1,7 @@
 # SOT Fisher
 A fishing tool for the game Sea of Thieves
+<br>
+![Alt Text](https://github.com/KaiSomething/SOTFisher/blob/main/fish.PNG)
 
 ### Build
 1. Download repository
